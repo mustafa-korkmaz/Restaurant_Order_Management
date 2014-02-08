@@ -6,6 +6,6 @@ Restoran içi veya paket servis siparişlerinin yönetimi için geliştirilmiş 
 Veritabanı ve bağımlılıklar
 =======================
 MySql .Net Connector & DevExpress 2010 yüklü olması gerekmektedir.
-Örnek sql dosyası (cafecasta.sql) DBs klasörünün içerisindedir.
+Örnek sql dosyası (cafecasta.sql) 'DB' klasörünün içerisindedir.
 
 
