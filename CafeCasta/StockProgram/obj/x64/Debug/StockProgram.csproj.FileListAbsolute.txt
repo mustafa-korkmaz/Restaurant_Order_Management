@@ -1,0 +1,402 @@
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMainPage.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Manufacturers.ucManufacturersMainPage.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMainPage.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Reports.ucCosts_Profits.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportsMainPage.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.exe.licenses
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\StockProgram\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Manufacturers.ucManufacturersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucCosts_Profits.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportsMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.exe.licenses
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Manufacturers.ucAddManufacturer.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Manufacturers.ucEditManufacturer.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.frmColorSizePopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.ucAddBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.ucMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBankDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucGunlukSatis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucAddExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpenseDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpensesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.frmSellReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucCustomerReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.frmProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucShoeSize.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBased.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Settings.ucSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmAddShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmEditShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucAddSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucEditSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucShoppingDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucSuppliersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBasedStocksReport.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.frmProductView.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Reports.ucKarYuzdelik.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Settings.ucColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\IsmailAhmet\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Banks.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Banks.ucAddBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Banks.ucMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBankDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddVeresiye.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Customers.ucVeresiyeMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucGunlukSatis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucAddExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpenseDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpensesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.frmSellReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucCustomerReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.frmProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucShoeSize.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucExpenses.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucKarYuzdelik.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBased.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucPrintLabel.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Settings.ucColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Settings.ucSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmAddShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmEditShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucAddSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucEditSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucShoppingDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucSuppliersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBasedStocksReport.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Sales.frmProductView.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Kırkıkoğlu\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Banks.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Banks.ucAddBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Banks.ucMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBankDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddPayment.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomerDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Customers.ucEditCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucGunlukSatis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Expenses.frmEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucAddExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpenseDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpensesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.frmSaleSwitch.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.frmSellReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucCustomerReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.frmProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucShoeSize.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucExpenses.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucKarYuzdelik.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBased.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucPrintLabel.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Sales.frmMiktar.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Settings.ucColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Settings.ucSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmAddShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmEditShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucAddSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucEditSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucShoppingDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucSuppliersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBasedStocksReport.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Sales.frmProductView.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.exe.licenses
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Takı Kuyumculuk\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.ucAddBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.ucMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBankDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddPayment.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomerDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Customers.ucEditCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucGunlukSatis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Expenses.frmEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucAddExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpenseDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpensesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.frmSaleSwitch.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.frmSellReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucCustomerReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.frmProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucShoeSize.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucExpenses.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucKarYuzdelik.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBased.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucPrintLabel.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Sales.frmMiktar.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditColor.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmAddShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmEditShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucAddSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucEditSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucShoppingDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucSuppliersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBasedStocksReport.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Sales.frmProductView.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Banks.ucEditBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Lale Giyim\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\bin\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\bin\x64\Debug\StockProgram.pdb
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\bin\x64\Debug\MySql.Data.dll
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\bin\x64\Debug\MySqlBackup.dll
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\bin\x64\Debug\Ionic.Zip.dll
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.ucAddBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBanksMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.ucMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.ucBankDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Categories.ucAddCategory.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoriesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryDelete.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Categories.ucCategoryEdit.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.frmMoneyTransfer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.ucAddPayment.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomerDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.ucCustomersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Customers.ucEditCustomer.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucGunlukSatis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Expenses.frmEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucAddExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucEditExpense.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpenseDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Expenses.ucExpensesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.MainFormUserControls.ucLogin.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.frmSaleSwitch.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.frmSellReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddGoods.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucCustomerReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.frmProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucShoeSize.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductReturn.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucExpenses.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucKarYuzdelik.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBased.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucPrintLabel.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.CategoryTab.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.frmMiktar.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSaleOptions.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.frm_backUp.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddOption.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddTable.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucGeneralSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucOptions.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditOption.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucSettings.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmAddShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.frmEditShopping.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucAddSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucEditSupplier.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucShoppingDetails.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Suppliers.ucSuppliersMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucAddProduct.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucDepoCikis.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucMigo.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucProductsMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.MainForm.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucTimeBasedStocksReport.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucProductTracking.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Reports.ucReportMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.frmProductView.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.frmSatisPopup.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.ucAdisyon.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.ucSalesMasterPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Banks.ucEditBank.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucEditGoods.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditTable.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddTableCat.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucAddPrinter.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.ucCheckout.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.frmDesc.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.frmCustomers.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Tables.frmOrders.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucOptionsToProducts.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucAddWarehouse.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditStaff.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Products.ucViewGoods.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucTables.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucTableCats.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditTableCat.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucPrinters.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Settings.ucEditPrinter.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Menu.ucMenu.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Tables.ucTablesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Sales.ucMenuItem.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.DailySales.ucOpenOrders.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Tables.ucTableItem.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.Warehouses.ucWarehousesMainPage.resources
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.exe
+C:\Users\mustafa\Desktop\CreaTech\CasTa\Cengiz Cafe\StockProgram\obj\x64\Debug\StockProgram.pdb
